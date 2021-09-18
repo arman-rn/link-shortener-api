@@ -4,7 +4,6 @@ import (
 	"link-shortener-api/api/helpers"
 	"log"
 
-	// "link-shortener-api/api/controllers"
 	"link-shortener-api/api/middlewares"
 	"link-shortener-api/api/routes"
 

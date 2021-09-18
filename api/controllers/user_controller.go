@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"log"
 
-	// "strconv"
-
 	"net/http"
 	"time"
 
@@ -15,9 +13,6 @@ import (
 
 	"link-shortener-api/api/db"
 	"link-shortener-api/api/helpers"
-
-	// helper "link-shortener-api/helpers"
-	// "link-shortener-api/api/models/entity"
 
 	"link-shortener-api/api/models"
 
